@@ -8,6 +8,11 @@ h1 {
   border: 1px solid #ffa71a;
 }
 
+.inline {
+  display: flex;
+  justify-content: space-around;
+}
+
 .month-list {
 
 }
