@@ -11,7 +11,10 @@ h1 {
 .inline {
   display: flex;
   justify-content: space-around;
+  list-style: none;
 }
+
+
 
 .month-list {
 
