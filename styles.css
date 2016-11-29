@@ -20,12 +20,17 @@ h1 {
 
 }
 
-.disabled {
 
+.disabled {
+  color: grey;
+}
+
+a.disabled, a .disabled {
+  color: purple;
 }
 
 .active {
-
+  color: yellow;
 }
 
 .promo {
