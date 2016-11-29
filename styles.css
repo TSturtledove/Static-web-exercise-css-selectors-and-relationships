@@ -68,3 +68,7 @@ a.disabled, a .disabled {
 .redBack {
   background-color: red;
 }
+
+.blueBack {
+  background-color: blue;
+}
