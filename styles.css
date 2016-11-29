@@ -34,7 +34,8 @@ a.disabled, a .disabled {
 }
 
 .promo {
-
+  font-weight: bold;
+  color: gold;
 }
 
 .grandparent {
